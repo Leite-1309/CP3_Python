@@ -1,0 +1,5 @@
+001 - João Silva - ADS - Nota: 8.5
+002 - Maria Souza - SI - Nota: 5.0
+003 - Carlos Lima - ADS - Nota: 6.5
+004 - Ana Clara - CC - Nota: 9.0
+005 - Pedro Alves - SI - Nota: 4.5

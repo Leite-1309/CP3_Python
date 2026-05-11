@@ -1,0 +1,6 @@
+[
+    {"id": 6, "nome": "Fernanda Costa", "curso": "ADS", "nota": 7.5},
+    {"id": 7, "nome": "Lucas Rocha", "curso": "CC", "nota": 8.0},
+    {"id": 8, "nome": "Bruno Martins", "curso": "SI", "nota": 3.5},
+    {"id": 9, "nome": "Juliana Alves", "curso": "ADS", "nota": 6.0}
+]
