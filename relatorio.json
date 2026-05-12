@@ -1,0 +1,62 @@
+{
+    "media": 6.5,
+    "total": 9,
+    "aprovados": [
+        {
+            "id": "001",
+            "nome": "João Silva",
+            "curso": "ADS",
+            "nota": 8.5
+        },
+        {
+            "id": "003",
+            "nome": "Carlos Lima",
+            "curso": "ADS",
+            "nota": 6.5
+        },
+        {
+            "id": "004",
+            "nome": "Ana Clara",
+            "curso": "CC",
+            "nota": 9.0
+        },
+        {
+            "id": "006",
+            "nome": "Fernanda Costa",
+            "curso": "ADS",
+            "nota": 7.5
+        },
+        {
+            "id": "007",
+            "nome": "Lucas Rocha",
+            "curso": "CC",
+            "nota": 8.0
+        },
+        {
+            "id": "009",
+            "nome": "Juliana Alves",
+            "curso": "ADS",
+            "nota": 6.0
+        }
+    ],
+    "reprovados": [
+        {
+            "id": "002",
+            "nome": "Maria Souza",
+            "curso": "SI",
+            "nota": 5.0
+        },
+        {
+            "id": "005",
+            "nome": "Pedro Alves",
+            "curso": "SI",
+            "nota": 4.5
+        },
+        {
+            "id": "008",
+            "nome": "Bruno Martins",
+            "curso": "SI",
+            "nota": 3.5
+        }
+    ]
+}
