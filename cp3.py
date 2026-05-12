@@ -286,4 +286,4 @@ while True:
 
         # Qualquer número fora das opções cai aqui.
         case _:
-            print("opção inválida")
+            print("opção inválida\n")
