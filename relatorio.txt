@@ -1,0 +1,10 @@
+===== RELATÓRIO =====
+
+Total de alunos: 9
+Média geral: 6.50
+
+Maior nota:
+Ana Clara - 9.0
+
+Menor nota:
+Bruno Martins - 3.5
